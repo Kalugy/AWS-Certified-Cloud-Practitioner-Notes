@@ -507,7 +507,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-50. How can a customer increase security to AWS account logons? (Select TWO)
+50. How can a customer increase security to AWS account logins? (Select TWO)
     - A. Configure AWS Certificate Manager
     - B. Enable Multi-Factor Authentication (MFA)
     - C. Use Amazon Cognito to manage access
